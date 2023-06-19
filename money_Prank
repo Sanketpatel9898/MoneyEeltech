@@ -41,10 +41,7 @@
 
           
       },
-      "Unity":{
-         "ad_showAdStatus":"",
-          "AppID":"4923729"
-      },
+     
       "QurekaLite":{
          "ad_showAdStatus":"",
           "AppID":"https://336.set.qureka.com/"
